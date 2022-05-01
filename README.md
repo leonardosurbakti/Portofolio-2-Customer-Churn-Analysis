@@ -1,4 +1,4 @@
-# Portofolio-2-Customer-Churn-Analysis
+# Portofolio 2: Customer Churn Analysis
 ## Latar Belakang
 Sebuah toko olahraga menjuak berbagai kebutuhan olahraga, seperti Baju, Jaket, Sepatu, dan Tas. Toko ini didirikan dan mulai berjualan mulai tahun 2013 sehingga sudah memiliki pelanggan tetap, dan terus melakukan berbagai strategi untuk mendapat pelanggan baru sampai saat ini
 
